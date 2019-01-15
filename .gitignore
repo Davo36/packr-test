@@ -1,2 +1,5 @@
 # Don't track the executable.
 ./packr-test
+
+# Don't track packr's temp files
+a_*
